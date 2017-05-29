@@ -1,0 +1,26 @@
+{
+  "app": {
+    "title": "Ractive Webpack Boilerplate",
+    "increment": "Send a pubsub message"
+  },
+  "home": {
+    "title": "Home Page",
+    "next": "Go to the next page"
+  },
+  "about": {
+    "title": "About Page",
+    "back": "Go back to home",
+    "next": "Go to the next page"
+  },
+  "markup": {
+    "title": "Markup Examples",
+    "placeholder": "Type markdown here",
+    "back": "Go back to home"
+  },
+  "sidebar": {
+    "count": "Pubsub click count:",
+    "home": "Home",
+    "about": "About",
+    "markup": "Markup Examples"
+  }
+}
